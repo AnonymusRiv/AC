@@ -1,0 +1,10 @@
+0 4
+1 7
+@
+2
+@
+LDA 0
+LDQ 1
+INTER
+HALT
+@

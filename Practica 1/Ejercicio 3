@@ -1,0 +1,21 @@
+C 3
+D E
+E 2
+F 41
+10 -3
+@
+0
+@
+CRA
+ADD C
+CTA
+ITA
+STA C
+CRA
+ADDI D
+ISZ D
+ISZ C
+JMP 6
+STA 11
+HALT
+@
